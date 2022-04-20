@@ -5,10 +5,9 @@
 - 🤔 I’m looking for help with the iOS app mentioned above
 - 💬 Ask me about Apple, Mastodon,  ..
 - 📫 How to reach me: 
-  - DeltaChat: pablo.chat@posteo.de
   - Session: 05730c6a4429a8975fc6cf6b1bd1fe6583b703aa11a25c764199821e9f619e4d2d
   - [Matrix](https://matrix.to/#/@pab_lol:matrix.org)
-  - [Mastodon](https://mastodon.green/@pabloitse)
+  - <a rel="me" href="https://mastodon.green/@pabloitse">Mastodon</a>
 - 😄 Pronouns: he
 - Stuff I worked with:
 
